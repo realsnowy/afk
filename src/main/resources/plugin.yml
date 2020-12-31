@@ -1,0 +1,4 @@
+name: afk
+version: ${project.version}
+main: tf.justdisablevac.afk.main
+api-version: 1.16
